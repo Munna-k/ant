@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="test1">
+<target name="info">
+<echo>my first application</echo>
+</target>
+<target name="clean">
+<echo>my first clean</echo>
+</target>
+<target name="compile">
+<echo>my first compile</echo>
+</target>
+<target name="package">
+<echo>my first package</echo>
+</target>
+<target name="install">
+<echo>my first install</echo>
+</target>
+<target name="deploy">
+<echo>my first deploy</echo>
+</target>
+
+</project>
